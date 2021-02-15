@@ -58,7 +58,7 @@ YOUTUBE:START
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<img align="left" alt="FavourA205's Github Stats" src="https://github-readme-stats.FavourA205.vercel.app/api?username=FavourA205&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="FavourA205's Github Stats" src="https://github-readme-stats.FavourA205.vercel.app/api?username=FavourA205&show_icons=true&hide_border=true" /> -->
 <!-- [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
